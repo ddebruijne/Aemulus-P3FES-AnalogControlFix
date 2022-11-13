@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Analog Control Fix</name>
+  <id>Donk.AnalogControlFix</id>
+  <author>Donk</author>
+  <version>1.0</version>
+  <link />
+  <description>Repackage of analog control fix patch for P3FES by AltimorTASDK so it can be easily included with Aemulus
+
+"This makes turn speed dependent on how far you've pushed the analog stick. Normally the game only lets you turn once the stick passes a certain threshold at a fixed speed, I have no idea how anyone thought that was okay."
+
+https://www.youtube.com/watch?v=lWl9m7SX4Eg
+https://gist.github.com/AltimorTASDK/01fa1725aeed7db62ec9
+</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>
